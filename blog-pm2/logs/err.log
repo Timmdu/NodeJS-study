@@ -1,0 +1,51 @@
+2023-01-29 23:00:14: 模拟出错
+2023-01-29 23:00:14: 模拟出错
+2023-01-29 23:01:39: 模拟出错
+2023-01-29 23:01:39: 模拟出错
+2023-01-29 23:01:39: 模拟出错
+2023-01-29 23:01:39: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:40: 模拟出错
+2023-01-29 23:01:55: 模拟出错
+2023-01-29 23:01:55: Error: error
+2023-01-29 23:01:55:     at Server.<anonymous> (D:\study\node-demo\blog\index.js:27:15)
+2023-01-29 23:01:55:     at Server.emit (node:events:513:28)
+2023-01-29 23:01:55:     at Server.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:166:33)
+2023-01-29 23:01:55:     at parserOnIncoming (node:_http_server:980:12)
+2023-01-29 23:01:55:     at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+2023-01-29 23:01:55: 模拟出错
+2023-01-29 23:01:55: Error: error
+2023-01-29 23:01:55:     at Server.<anonymous> (D:\study\node-demo\blog\index.js:27:15)
+2023-01-29 23:01:55:     at Server.emit (node:events:513:28)
+2023-01-29 23:01:55:     at Server.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:166:33)
+2023-01-29 23:01:55:     at parserOnIncoming (node:_http_server:980:12)
+2023-01-29 23:01:55:     at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+2023-01-29 23:01:56: 模拟出错
+2023-01-29 23:01:56: Error: error
+2023-01-29 23:01:56:     at Server.<anonymous> (D:\study\node-demo\blog\index.js:27:15)
+2023-01-29 23:01:56:     at Server.emit (node:events:513:28)
+2023-01-29 23:01:56:     at Server.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:166:33)
+2023-01-29 23:01:56:     at parserOnIncoming (node:_http_server:980:12)
+2023-01-29 23:01:56:     at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+2023-01-29 23:01:57: 模拟出错
+2023-01-29 23:01:57: Error: error
+2023-01-29 23:01:57:     at Server.<anonymous> (D:\study\node-demo\blog\index.js:27:15)
+2023-01-29 23:01:57:     at Server.emit (node:events:513:28)
+2023-01-29 23:01:57:     at Server.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:166:33)
+2023-01-29 23:01:57:     at parserOnIncoming (node:_http_server:980:12)
+2023-01-29 23:01:57:     at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+2023-01-29 23:01:57: 模拟出错
+2023-01-29 23:01:58: 模拟出错
+2023-01-29 23:01:58: 模拟出错
+2023-01-29 23:02:26: 模拟出错
+2023-01-29 23:02:26: 模拟出错
