@@ -1,0 +1,11 @@
+{
+    "apps": {
+        "name": "pm2-test-server",
+        "script": "bin/www",
+        "watch": true,
+        "ignore_watch": [
+            "node_modules"
+        ],
+        "instances": 2
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "koa2-middleware-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "stop": "pm2 delete pm2-test-server",
+    "dev": "node bin/www",
+    "prd": "pm2 start pm2.conf.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-static": "^5.0.0"
+  }
+}
