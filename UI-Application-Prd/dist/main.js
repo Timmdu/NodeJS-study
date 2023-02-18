@@ -46845,7 +46845,7 @@ var __signature__ = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoader
 
 function App() {
   var navigate = Object(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["useNavigate"])();
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Demo site 1"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Demo site "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
     onClick: function onClick() {
       navigate('/new');
     }
@@ -46880,8 +46880,8 @@ var _default = App;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(App, "App", "D:\\study\\UI-Application\\src\\App.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\App.jsx");
+  reactHotLoader.register(App, "App", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\App.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\App.jsx");
 })();
 ;
 (function () {
@@ -46955,8 +46955,8 @@ var _default = dataRequestor;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(dataRequestor, "dataRequestor", "D:\\study\\UI-Application\\src\\dataRequestor.js");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\dataRequestor.js");
+  reactHotLoader.register(dataRequestor, "dataRequestor", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\dataRequestor.js");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\dataRequestor.js");
 })();
 ;
 (function () {
@@ -47060,8 +47060,8 @@ var _default = AdminPage;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(AdminPage, "AdminPage", "D:\\study\\UI-Application\\src\\pages\\admin.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\admin.jsx");
+  reactHotLoader.register(AdminPage, "AdminPage", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\admin.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\admin.jsx");
 })();
 ;
 (function () {
@@ -47136,8 +47136,8 @@ var _default = BlogDetail;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(BlogDetail, "BlogDetail", "D:\\study\\UI-Application\\src\\pages\\detail.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\detail.jsx");
+  reactHotLoader.register(BlogDetail, "BlogDetail", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\detail.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\detail.jsx");
 })();
 ;
 (function () {
@@ -47237,8 +47237,8 @@ var _default = EditBlog;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(EditBlog, "EditBlog", "D:\\study\\UI-Application\\src\\pages\\edit.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\edit.jsx");
+  reactHotLoader.register(EditBlog, "EditBlog", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\edit.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\edit.jsx");
 })();
 ;
 (function () {
@@ -47329,8 +47329,8 @@ var _default = LoginPage;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(LoginPage, "LoginPage", "D:\\study\\UI-Application\\src\\pages\\login.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\login.jsx");
+  reactHotLoader.register(LoginPage, "LoginPage", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\login.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\login.jsx");
 })();
 ;
 (function () {
@@ -47429,8 +47429,8 @@ var _default = CreateBlog;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(CreateBlog, "CreateBlog", "D:\\study\\UI-Application\\src\\pages\\new.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\new.jsx");
+  reactHotLoader.register(CreateBlog, "CreateBlog", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\new.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\new.jsx");
 })();
 ;
 (function () {
@@ -47471,8 +47471,8 @@ var _default = NoPage;
   if (!reactHotLoader) {
     return;
   }
-  reactHotLoader.register(NoPage, "NoPage", "D:\\study\\UI-Application\\src\\pages\\noPage.jsx");
-  reactHotLoader.register(_default, "default", "D:\\study\\UI-Application\\src\\pages\\noPage.jsx");
+  reactHotLoader.register(NoPage, "NoPage", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\noPage.jsx");
+  reactHotLoader.register(_default, "default", "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test\\src\\pages\\noPage.jsx");
 })();
 ;
 (function () {
